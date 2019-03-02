@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Naira Currency conversion App</string>
+    <string name="ToDollar">Naira to Dollar</string>
+    <string name="ToPounds">Naira to Pound Sterling</string>
+    <string name="ToCad">Naira to CaD</string>
+    <string name="toEuros">Naira to Euro</string>
+    <string name="input_hint">Amount to Be Converted</string>
+    <string name="contentDiscDollar">Dollar</string>
+    <string name="contentDiscPounds">Pound Sterling</string>
+    <string name="contentDiscEuros">Euros</string>
+    <string name="contentDiscCad">Canadian Dollars</string>
+    <string name="contentDisNai">Naira</string>
+    <string name="restltN2D">"The converted amount at \n One Naira to 360Dollars is \n\t"</string>
+
+</resources>
